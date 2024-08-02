@@ -1,0 +1,13 @@
+streamlit
+faiss-cpu
+numpy
+pandas
+scikit-learn
+python-dotenv
+fastapi
+uvicorn
+torch
+tensorflow
+tokenizer
+sentence-transformers
+
